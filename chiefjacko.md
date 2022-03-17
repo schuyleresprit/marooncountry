@@ -4,7 +4,7 @@ title: "Chief Jacko"
 permalink: /chiefjacko/
 ---
 
-**Maroon Chief Jacko in 1812
+###Maroon Chief Jacko in 1812
 
 2014 marked the 200th anniversary of the death of Jacko, a maroon chief who lived a free man in the forests of Dominica for upwards of 40 years. He was once enslaved on Beaubois Estate.
 
