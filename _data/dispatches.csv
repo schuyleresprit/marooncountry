@@ -1,4 +1,4 @@
-pid,_date,Title,Source,order,layout,collection,thumbnail,full,manifest,Transcription
+pid,_date,title,source,order,layout,collection,thumbnail,full,manifest,transcription
 0111,January 11 1813,January 11,Dominica National Archives,00,dispatches1813_item,dispatches1813,"/img/derivatives/iiif/images/0111_0111a/full/250,/0/default.jpg","/img/derivatives/iiif/images/0111_0111a/full/1140,/0/default.jpg",/img/derivatives/iiif/0111/manifest.json,""
 0208,February 8 1813,February 8,Dominica National Archives,01,dispatches1813_item,dispatches1813,"/img/derivatives/iiif/images/0208_0208a/full/250,/0/default.jpg","/img/derivatives/iiif/images/0208_0208a/full/1140,/0/default.jpg",/img/derivatives/iiif/0208/manifest.json,"Circular
 Downing Street
