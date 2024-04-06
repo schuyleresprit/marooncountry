@@ -1,9 +1,9 @@
 ---
 layout: page
-show_title: false
+show_title: true
 banner:
   collection: dispatches1813
-  pid: 0430
+  pid: 0410
   y: 25%
   height: '500px'
 ---
