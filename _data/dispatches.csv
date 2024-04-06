@@ -1,20 +1,331 @@
-pid,Date,Title,Source,order,layout,collection,thumbnail,manifest,full
-0111,January 11 1813,January 11,Dominica National Archives,00,dispatches1813_item,dispatches1813,"/img/derivatives/iiif/images/0111_0111a/full/250,/0/default.jpg",/img/derivatives/iiif/0111/manifest.json,"/img/derivatives/iiif/images/0111_0111a/full/1140,/0/default.jpg"
-0208,February 8 1813,February 8,Dominica National Archives,01,dispatches1813_item,dispatches1813,"/img/derivatives/iiif/images/0208_0208a/full/250,/0/default.jpg",/img/derivatives/iiif/0208/manifest.json,"/img/derivatives/iiif/images/0208_0208a/full/1140,/0/default.jpg"
-0326,March 26 1813,March 26,Dominica National Archives,02,dispatches1813_item,dispatches1813,"/img/derivatives/iiif/images/0326/full/250,/0/default.jpg",/img/derivatives/iiif/0326/manifest.json,"/img/derivatives/iiif/images/0326/full/1140,/0/default.jpg"
-0404,April 4 1813,April 4,Dominica National Archives,03,dispatches1813_item,dispatches1813,"/img/derivatives/iiif/images/0404/full/250,/0/default.jpg",/img/derivatives/iiif/0404/manifest.json,"/img/derivatives/iiif/images/0404/full/1140,/0/default.jpg"
-0410,April 10 1813,April 10,Dominica National Archives,04,dispatches1813_item,dispatches1813,"/img/derivatives/iiif/images/0410/full/250,/0/default.jpg",/img/derivatives/iiif/0410/manifest.json,"/img/derivatives/iiif/images/0410/full/1140,/0/default.jpg"
-0430,April 30 1813,April 30,Dominica National Archives,05,dispatches1813_item,dispatches1813,"/img/derivatives/iiif/images/0430_0430a/full/250,/0/default.jpg",/img/derivatives/iiif/0430/manifest.json,"/img/derivatives/iiif/images/0430_0430a/full/1140,/0/default.jpg"
-0621,June 21 1813,June 21,Dominica National Archives,06,dispatches1813_item,dispatches1813,"/img/derivatives/iiif/images/0621_0621a/full/250,/0/default.jpg",/img/derivatives/iiif/0621/manifest.json,"/img/derivatives/iiif/images/0621_0621a/full/1140,/0/default.jpg"
-0623,June 23 1813,June 23,Dominica National Archives,07,dispatches1813_item,dispatches1813,"/img/derivatives/iiif/images/0623_0623a/full/250,/0/default.jpg",/img/derivatives/iiif/0623/manifest.json,"/img/derivatives/iiif/images/0623_0623a/full/1140,/0/default.jpg"
-0703,July 3 1813,July 3,Dominica National Archives,08,dispatches1813_item,dispatches1813,"/img/derivatives/iiif/images/0703_0703a/full/250,/0/default.jpg",/img/derivatives/iiif/0703/manifest.json,"/img/derivatives/iiif/images/0703_0703a/full/1140,/0/default.jpg"
-0715,July 15 1813,July 15,Dominica National Archives,09,dispatches1813_item,dispatches1813,"/img/derivatives/iiif/images/0715_0715a/full/250,/0/default.jpg",/img/derivatives/iiif/0715/manifest.json,"/img/derivatives/iiif/images/0715_0715a/full/1140,/0/default.jpg"
-0716,July 16 1813,July 16,Dominica National Archives,10,dispatches1813_item,dispatches1813,"/img/derivatives/iiif/images/0716_0716a/full/250,/0/default.jpg",/img/derivatives/iiif/0716/manifest.json,"/img/derivatives/iiif/images/0716_0716a/full/1140,/0/default.jpg"
-0728,July 28 1813,July 28,Dominica National Archives,11,dispatches1813_item,dispatches1813,"/img/derivatives/iiif/images/0728_0728a/full/250,/0/default.jpg",/img/derivatives/iiif/0728/manifest.json,""
-0814,August 14 1813,August 14,Dominica National Archives,12,dispatches1813_item,dispatches1813,"/img/derivatives/iiif/images/0814_0814a/full/250,/0/default.jpg",/img/derivatives/iiif/0814/manifest.json,"/img/derivatives/iiif/images/0814_0814a/full/1140,/0/default.jpg"
-0904,September 4 1813,September 4,Dominica National Archives,13,dispatches1813_item,dispatches1813,"/img/derivatives/iiif/images/0904_0904a/full/250,/0/default.jpg",/img/derivatives/iiif/0904/manifest.json,"/img/derivatives/iiif/images/0904_0904a/full/1140,/0/default.jpg"
-0918,September 18 1813,September 18,Dominica National Archives,14,dispatches1813_item,dispatches1813,"/img/derivatives/iiif/images/0918_0918a/full/250,/0/default.jpg",/img/derivatives/iiif/0918/manifest.json,"/img/derivatives/iiif/images/0918_0918a/full/1140,/0/default.jpg"
-0919,September 19 1813,September 19,Dominica National Archives,15,dispatches1813_item,dispatches1813,"/img/derivatives/iiif/images/0919/full/250,/0/default.jpg",/img/derivatives/iiif/0919/manifest.json,"/img/derivatives/iiif/images/0919/full/1140,/0/default.jpg"
-1018,October 18 1813,October 18,Dominica National Archives,16,dispatches1813_item,dispatches1813,"/img/derivatives/iiif/images/1018_1018a/full/250,/0/default.jpg",/img/derivatives/iiif/1018/manifest.json,"/img/derivatives/iiif/images/1018_1018a/full/1140,/0/default.jpg"
-1217,December 17 1813,December 17,Dominica National Archives,17,dispatches1813_item,dispatches1813,"/img/derivatives/iiif/images/1217_1217a/full/250,/0/default.jpg",/img/derivatives/iiif/1217/manifest.json,"/img/derivatives/iiif/images/1217_1217a/full/1140,/0/default.jpg"
-1221,December 21 1813,December 21,Dominica National Archives,18,dispatches1813_item,dispatches1813,"/img/derivatives/iiif/images/1221/full/250,/0/default.jpg",/img/derivatives/iiif/1221/manifest.json,"/img/derivatives/iiif/images/1221/full/1140,/0/default.jpg"
+pid,_date,Title,Source,order,layout,collection,thumbnail,full,manifest,Transcription
+0111,January 11 1813,January 11,Dominica National Archives,00,dispatches1813_item,dispatches1813,"/img/derivatives/iiif/images/0111_0111a/full/250,/0/default.jpg","/img/derivatives/iiif/images/0111_0111a/full/1140,/0/default.jpg",/img/derivatives/iiif/0111/manifest.json,""
+0208,February 8 1813,February 8,Dominica National Archives,01,dispatches1813_item,dispatches1813,"/img/derivatives/iiif/images/0208_0208a/full/250,/0/default.jpg","/img/derivatives/iiif/images/0208_0208a/full/1140,/0/default.jpg",/img/derivatives/iiif/0208/manifest.json,"Circular
+Downing Street
+26th March 1813
+
+Sir,
+It is with infinite concern that I communicate to you the intelligence of the ""..."" of the Royal Highness The Dutchess of Brunswick which melancholy ""...""last between nine and ten o' clock in the evening to the great ""..."" of the Royal family.
+
+I have the honor to be
+Sir
+Your most obedient
+humble servant
+""...""
+
+Governor Ainslie"
+0326,March 26 1813,March 26,Dominica National Archives,02,dispatches1813_item,dispatches1813,"","","","Circular
+
+Downing Street
+26th March 1813
+
+Sir,
+I transmit to you a copy of an order of the Prince Regent in Council dated 20th ""..."" containing a prayer for this Royal Highness and I am to desire that you cause the directions of the ""..."" order to be duly observed in the colony under your govornment.
+
+I have the honor to be
+Sir,
+Your most obedient
+Humble Servant
+""...""
+
+Govorner Ainslie"
+0404,April 4 1813,April 4,Dominica National Archives,03,dispatches1813_item,dispatches1813,"/img/derivatives/iiif/images/0404/full/250,/0/default.jpg","/img/derivatives/iiif/images/0404/full/1140,/0/default.jpg",/img/derivatives/iiif/0404/manifest.json,"Barbados 4 April 1813
+
+Sir,
+Herewith I inclose you the copy of a letter addressed to me by Earl Bathurst upon the 16th of February last numbered 19, for Your Information and Guidance, and have the honor to be
+
+Sir,
+Your most obedient humble Servant
+""...""
+
+To
+His Excellency
+Governor Ainslie"
+0410,April 10 1813,April 10,Dominica National Archives,04,dispatches1813_item,dispatches1813,"/img/derivatives/iiif/images/0410/full/250,/0/default.jpg","/img/derivatives/iiif/images/0410/full/1140,/0/default.jpg",/img/derivatives/iiif/0410/manifest.json,"Barbados 10th April 1813
+
+Sir,
+As Major General Sir Charles Shipley will on his arrival at Grenada relieve you in the Military Comand, I have communicated with him your recent affiliations to me with my decisions that I may not embarra_s you with new matter on your Departure.
+
+I think it right to explain to you that no General Officer in this Command, lodged by the public, either in a Military or Civil capacity, is entitled to draw lodging money, which is only if used to ""..."" an actual ""...""
+
+I have the honor to the Sir,
+Your most obedient honorable Servant
+""...""
+
+To
+Brigadier General Ainslie"
+0430,April 30,April 30,Dominica National Archives,05,dispatches1813_item,dispatches1813,"/img/derivatives/iiif/images/0430_0430a/full/250,/0/default.jpg","/img/derivatives/iiif/images/0430_0430a/full/1140,/0/default.jpg",/img/derivatives/iiif/0430/manifest.json,"Circulation
+
+Grejsy, Carlisle Bay
+Barbados, 30th August 1813
+
+Sir,
+I have the honor to acquaint myself Your Excellency, for the information of the Trade of the Colony under your Excellency's Government, that it bring the institution of the Right Honorable the Lords ""..."" of the Admiralty, for the better protection of the Trade of His Majesty's Subjects, to suffer no ship or vessel homeward bound, to suit from any Port or Place without Convoy, their Lordships have directed me to apologize the Merchants and Masters of Ships and Vessels blouging to His Majesty's Subjects within the limits of my Station, that if any Ship or Vessel homeward bound shall under any pretense whatever, return without waiting for the protection afforded by the established Convoys their Lordships will enforce the payment of the Penalties that may be incurred by a Breach of the Act of the 43rd George 3rd-, Chapter 57, commonly called the Convoy Act.-
+
+I have the honor to be Sir,
+Your Excellency's most obedient honorable Servant
+
+His Excellency
+Brigadier General Ainslie"
+0601,June 1 1813,June 1,Dominica National Archives,06,dispatches1813_item,dispatches1813,"","","",""
+0623,June 23 1813,June 23,Dominica National Archives,07,dispatches1813_item,dispatches1813,"/img/derivatives/iiif/images/0623_0623a/full/250,/0/default.jpg","/img/derivatives/iiif/images/0623_0623a/full/1140,/0/default.jpg",/img/derivatives/iiif/0623/manifest.json,"Image No.1
+
+(CIRCULAR)
+
+DOWNING-STREET
+23d June, 1813
+
+SIR,
+
+I have the honour of enclosing an Order of Council, dated the 10th instant which it has been judged expedient to issue in consequence of the continuance of Hostilities between His Majesty and the United States of America.
+
+By this Order you are authorized to grant licenses for the importation of certain articles enumerated in the Order, and for the exportation of certain articles also enumerated in the said Order, in the ship in which the importations aforesaid shall have been previously made.
+
+This intercourse is to be subject to the condition stated in the Order, and to such instructions as you may, from time to time, receive from one of His Majesty’s Principal Secretaries of State.
+
+I am commanded by His Royal Highness the Prince Regent to signify to you, that, in granting the license for importation of the above enumerated articles, you take care that the articles, so to be imported be severally enumerated in the body of the license; that the port or place from whence the importation is to be made, and the port to which she is bound, be inserted in the body of the license; that is the person applying for the licence shall not be able to state the name f the vessel on board of which the proposed importation is to be made, the condition of the license should be, that the name of the vessel, the name of her master, her tonnage, and her national character, be endorsed n the license, on quitting her port of clearance, and that the condition of the license should also be, that se proceeds directly to her port of destination.
+
+You will also take care that all licences under this order whether of import from or export to Ports of the United States be confined by express words in the body of the licence to ports not blockaded.
+
+Although the Order of the council authorizes you to permit the importation of the enumerated articles in any vessel not French, you will not grant these licence to ay except to vessels in amity with His Majesty, unless you are convinced that the Isle of Dominica will be exposed to serious embarrassment by so confining the importation in question.
+
+Whatever importations are proposed to be made under this Order from the United States of America should be by your licences confined to the ports of the Eastern States exclusively, unless you have reason to believe that the object of the Order would not be fulfilled if licences are not also granted for importation from the other ports belonging to the United States.
+
+With respect to the licence for exportation on board the vessels in which an importation shall have been previously made, you will observe that the Order does not require that the port of destination in such case shall be the same as that from whence the importation had been made. But you will take care that in the body of the licence be inserted the name of the vessel, her tonnage, the name of her Master, and his national character, the port of clearance, and the port of destination, and the cargo be described in the body of the licence according to the words of the Order, viz. Rum, molasses, or any other goods and commodities whatsoever, except sugar, indigo, cotton-wool, coffee and cocoa.
+
+You will take care that the term of the importation licence does not exceed the order under which it is granted, and that you do not issue and licence for exportation under this Order after that period. The fee payable for each licence is not in any case to exceed the sum of one pound one shilling.
+
+I have the honour to be,
+SIR,
+Your most obedient
+humble Servant,
+“…”
+
+Governor Ansile
+
+Image No.2
+
+AT THE COURT AT CARLTON-HOUSE,
+
+10th June, 1813,
+
+PRESENT,
+
+His Royal Highness the PRINCE REGENT in Council.
+
+WHEREAS by an Act passed in the present Session of Parliament, intituled “An Act for empowering His Majesty to authorize the importation and exportation of certain articles into and from the West Indies, South America and Newfoundland, until six weeks after the commencement of the next Session o Parliament,” It is declare that it shall and may be lawful for His Majesty, from and after the passing of the said Act. And until six weeks after the commencement of the next Session of Parliament, by any Order or Orders in Council for the purpose to be issued, further to authorize the Governor or Lieutenant- Governor of any of the islands in the West Indies to His Majesty belonging (in which description the Bahamas and Bermuda or Somers Islands are included,) or of any of the island and territories to His Majesty belonging on the Continent of South America, to permit the importation of corn, grain, meal, flour, bread, biscuit, and rice into any of the said islands, ands and territories, in any unarmed ship or vessel not belonging to France, or to the subjects or inhabitants thereof, or any port or place annexed to the territories of France, and to export there from, in such ships or vessels, rum and molasses, and any other goods and commodities whatsoever, except sugar, indigo, cotton-wool, coffee and cocoa, subject to such regulations and restrictions as shall be contained in such order and orders., and to such instructions as the Governor or Lieutenant-Governor may, from time to time, receive from His Majesty, signified by one of His Majesty’s Principal Secretaries of State; His Royal Highness the Prince Regent, in the name and on behalf of His Majesty, and by and with the advice of His Majesty’s Privy Council, is pleased further to authorize and empower the Governor or Lieutenant-Governor of any of the said islands, lands, and territories abovementioned, and they are herby respectively authorized and empowered to permit, until the 31st day of October next, the importation into the said islands, lands, and territories respectively, of corn, grain, meal, flour, bread, biscuit, and rice, in any unarmed ship or vessel not belonging to France, or to the subjects or inhabitants thereof, or any port or place annexed to the territories of France, under the licence of the said respective Governors, which they are hereby empowered to grant in His Majesty’s name, subject to such instructions as His Royal Highness the Prince Regent, in the name and on behalf of His Majesty, shall, from time to time, think fit to issue, to be signified by one of His Majesty’s Principal Secretaries of State; and also to permit, under licences to be granted as aforesaid, the exportation from the said islands, lands, and territories into which such importation as aforesaid shall be made, of run and molasses, and any other goods and commodities whatsoever, except sugar, indigo, cotton wool, coffee and cocoa; Provided that such ships or vessels shall duly enter into, report and deliver their respective cargoes, and reload at such ports only, where regular custom houses shall have been established.
+
+JAS. BULER"
+0703,July 3 1813,July 3,Dominica National Archives,08,dispatches1813_item,dispatches1813,"/img/derivatives/iiif/images/0703_0703a/full/250,/0/default.jpg","/img/derivatives/iiif/images/0703_0703a/full/1140,/0/default.jpg",/img/derivatives/iiif/0703/manifest.json,"Circular
+
+Downing Street
+3rd July 1813
+
+Sir,
+
+I have Lord ""..."" directions to transmit to you a Gazette extrodinary published this day containing an account of a glorious and decisive victory obtained over the french arnys in Spain by the combined forces under the comand of Fulia ""..."" the Marquis of Willingtonon the 21st ""..."" near ""..."".
+
+I have the honor to be
+Sir
+Your most obedient
+Humble Servant
+""...""
+
+Govenor Anslie"
+0715,July 15 1813,July 15,Dominica National Archives,09,dispatches1813_item,dispatches1813,"","","","Downing Street
+15 July 1813
+Sir,
+        “It’s” appearing from letters “” from Malta, that the plague broke out in that island on the 19th of May and has since continued to rage with unabated violence; I have to “” that you will pay the strictest attention to the enforcement of “” regulations with respect to “” and “” coming either directly or “” from the Mediterranean, as may “efficiently” secure the island under your government from all source of infection.
+
+I have the honours to be 
+        Sir
+        Your most obedient humble servant
+
+15th July 1813
+Bathurst
+Prohibiting the arrival of “peoples” from the Mediterranean “” “” having the plague in Malta.
+
+Downing Street
+15th July 1813
+Sir
+	“It’s” appearing from letters received from Malta that the plague broke out on that island on the 19th May and has since continue to rage was may ith unabated violence; I have to “desire” that you will pay the strictest attention to the enforcements of such regulations with respect to “people” or cargoes coming either directly or “” from the Mediterranean as may “” “” your government from all chance of infection.
+
+I have the honours to be 
+	Sir
+	Your most obedient humble servant
+To Governor Ainslie
+July 15th 1813
+Lord Bathurst
+The plague broke out at Malta.
+
+"
+0716,July 16 1813,July 16,Dominica National Archives,10,dispatches1813_item,dispatches1813,"/img/derivatives/iiif/images/0716_0716a/full/250,/0/default.jpg","/img/derivatives/iiif/images/0716_0716a/full/1140,/0/default.jpg",/img/derivatives/iiif/0716/manifest.json,""
+0728,July 28 1813,July 28,Dominica National Archives,11,dispatches1813_item,dispatches1813,"","","","General Post Office
+28th July 1813
+Sir, 
+                Having laid before my Lords the Postmasters General your Excellency’s letter of the 22nd May last requesting  that the Suriname Packet on the her homeward bound “” may lay off and on the port of Dominica for three hours to receive the mails for Europe; their Lords “” direct me to “” your Excellency that they consent to the arrangement on the “” understanding.
+
+His Excellency
+Governor “Ainslie”
+
+Understanding that when she arrives off the Island, and a signal be made, the Mail and dispatches shall be sent on board without any expense to this “”; and I have directed the Postmaster to wait upon your Excellency to settle the manner of sending the Mails on board the “”.
+        
+I have the honours to be 
+        Sir
+        Your Excellency’s most obedient humble servant
+“”
+28 July 1813
+Relative to the Suriname Packets calling at “Dominica”
+
+“”
+General Post Office
+July 28th 1813
+Sir
+	My Lords The Postmaster General having taken in to consideration your Excellency’s proposition that the mail boat after leaving Grenada should stop at the Island of Carriacou for three hours to which their Lordships have been pleased to consent and direction have been given to the Postmaster of Barbados to carry the
+
+His Excellency
+Governor Ainslie
+Dominica
+the same into effect.
+
+I have the honours to be 
+	Sir
+	Your Excellency’s most obedient humble servant
+July 28th 1813
+Fr: “” directing that the mail boats stop three hours at Carriacou
+"
+0814,August 14 1813,August 14,Dominica National Archives,12,dispatches1813_item,dispatches1813,"/img/derivatives/iiif/images/0814_0814a/full/250,/0/default.jpg","/img/derivatives/iiif/images/0814_0814a/full/1140,/0/default.jpg",/img/derivatives/iiif/0814/manifest.json,"Downing Street
+August 14th 1813
+Sir, 
+                In consequence of an “” from the house of Commons to his Royal “Highness” the Prince “”. I am commanded by his Royal “Highness” to “mistrust” you to cause to be “prepared” and transmitted to this department 
+                A list containing the titles of all the acts which have been passed by the “legislature” of the islands of Dominica “” the dates thereof respectively and
+"
+0904,September 4 1813,September 4,Dominica National Archives,13,dispatches1813_item,dispatches1813,"/img/derivatives/iiif/images/0904_0904a/full/250,/0/default.jpg","/img/derivatives/iiif/images/0904_0904a/full/1140,/0/default.jpg",/img/derivatives/iiif/0904/manifest.json,""
+0918,September 18 1813,September 18,Dominica National Archives,14,dispatches1813_item,dispatches1813,"/img/derivatives/iiif/images/0918_0918a/full/250,/0/default.jpg","/img/derivatives/iiif/images/0918_0918a/full/1140,/0/default.jpg",/img/derivatives/iiif/0918/manifest.json,"Sir
+                I have the honour to acquaint your Excellency, that having laid your affiliation that the mails for Grenada might in future be forwarded by the Trinidad boats, instead of, at present, by that which proceeds to Tobago and St. Vincent, before my Lords The Post Master General, their Lordship commands me to state to your Excellency, that they have directed an arrangement to be carried into effect, which while item “have” your object in accelerating communication with Grenada, will likewise be the means of accommodation to St. Vincent.
+                The regulation which the “Definity” Postmaster General of Barbados is directed, by the present mail, to carry into execution, is, that instead of the boats taking the route they do at present, one of them should proceed to Tobago and Trinidad.
+
+His Excellency, 
+
+Trinidad, and from there Grenada, and the other to St. Vincent and Grenada. IN this May, it is stated, the Mail for the two last mentioned islands would each then nearly a week sooner than by the present mode, and those for Trinidad on the other hand in consequence of the boat having to stop at Tobago, would be delayed only two days – the meeting of the two boats would at the same time be expedited but in the event of only one mail boat being at Barbados, on the arrival of the packet from England, “she” must “”take the long route by Tobago, as usual.
+		My Lord “” me to add, that it is always matter of gratification to them to be able to afford any additional accommodation to the Public, and that they apprehend the arrangement, as now detailed, cannot fail to ensure that objects.
+
+I have the honours to be 
+	Sir
+	Your Excellency’s most obedient humble servant.
+18 September 1813
+“” respecting the route of the mail boats.
+
+"
+0919,September 19 1813,September 19,Dominica National Archives,15,dispatches1813_item,dispatches1813,"/img/derivatives/iiif/images/0919/full/250,/0/default.jpg","/img/derivatives/iiif/images/0919/full/1140,/0/default.jpg",/img/derivatives/iiif/0919/manifest.json,""
+1018,October 18 1813,October 18,Dominica National Archives,16,dispatches1813_item,dispatches1813,"/img/derivatives/iiif/images/1018_1018a/full/250,/0/default.jpg","/img/derivatives/iiif/images/1018_1018a/full/1140,/0/default.jpg",/img/derivatives/iiif/1018/manifest.json,"Circular
+
+Downing Street
+18th October 1813
+
+Sir,
+I am directed by Earl _____ to transmit to you a gazette extrodinary of this day, detailing the particular of the advance of a part of the allied army under the Marquis of Wellington began on the Spanish Frontiers,
+
+Juno
+Sir,
+Your most obedient
+Humble Servant
+Henry ""...""
+
+Gov. Ainslie
+"
+1217,December 17 1813,December 17,Dominica National Archives,17,dispatches1813_item,dispatches1813,"/img/derivatives/iiif/images/1217_1217a/full/250,/0/default.jpg","/img/derivatives/iiif/images/1217_1217a/full/1140,/0/default.jpg",/img/derivatives/iiif/1217/manifest.json,"Circular
+
+Downing Street
+17 Dec’ 1813
+
+Sir,
+""..."" the honor to transmit to you the _____ of a letter from ________ ______, including an order _____ by his Royal Highness the Prince _____ in Council on the 30th ______, _____ the Importation and Exportation of Grain and _____, the articles _____ _____ ______ and from this majority ______ ______ in the West Indies, and the ______ of South America, subject to the _____ ______and the ______ thereby improved. ______ to derive that you will cause the _____ order to the duly observe within the Colony under your Government.
+____the _____ the
+Sir
+
+
+
+
+Islands, Colonies, Lands and Territories respectively, into which importation as aforesaid shall be made, of Rum and Molasses, and of any other articles, goods and commodities whatsoever, except Sugar, Indigo, Cotton Wool, Coffee and Cocoa; provided always that such articles so to be imported shall be of the growth or produce of the Country to which the Ship or Vessel importing the same shall belong; provided also that such Ships or Vessels shall duly enter into, report and deliver their respective Cargoes, and reload at such Ports only where regular Custom-houses shall have been established. But it is His Royal Highness’s Pleasure nevertheless, and His Royal Highness in the name and on the behalf of His Majesty, and by and with the advice aforesaid, is further pleased to order, and it is hereby ordered, that nothing herein before contained shall be construed to permit the importation of Corn, Grain, Meal, Flour, Bran, Biscuit, Pulse, Rice, Horses, Mules, neat Cattle, Sheep, Hogs, or any other species of live stock and live provisions into any of the said Islands, Lands or Territories in which there shall not be at the time when such articles shall be brought for importation the following duties on such articles being of the growth or produce of the United States of America, namely:-
+Current Money
+of Jamaica
+On Wheat Flour per barrel, not weighing more than one hundred and ninety six
+pounds net weight………………………………………………………………..0 6 8
+On Bread or Biscuit of Wheat Flour or any other grain, per barrel, not weighing
+More than one hundred pounds net weight……………………………………...0 3 4
+On Bread, for every hundred pounds made from Wheat, or any other grain
+whatever, imported in bags or other packages than barrels, weighing as __________________________________..........................................................0 3 4
+On Flour or Meal made from Rye, Pease, Beans, Indian Corn, or other grain than wheat, per barrel, not weighing more than one hundred and ninety-six pounds…………...0 3 4
+On Pease, Beans, Rye, Indian Corn, Callivancies or other grain, per bushel…..0 0 10
+
+On Rice for every one hundred pounds net weight…………………………….0 3 4
+And so in proportion for a less or larger quantity.
+Horses, neat Cattle or other live stock, for every one hundred pounds of the value
+Thereof, at the port or place of importation…………………………………10 0 0
+
+And His Royal Highness the Print Regent, in the name and on the behalf of His Majesty, by and with the advice of His Majesty’s Privy Council, is further pleased to order, and doth hereby order, that, notwithstanding anything hereinbefore contained, the said permission and authority to Import and Export, shall cease and determine, or be varied or altered, before the expiration of the abovementioned period of Twelve Months, at the expiration of Six Months after notification in the London Gazette of any Order of His Royal Highness, by and with the advice of His Majesty’s Privy Council, for revoking, varying, or altering such permission or authority, or shall cease and determine at the expiration of Six Months, after the ratification of a definitive treaty of peace.
+
+(Signed) CHETWYND
+
+
+
+
+
+
+
+
+PRESENT,
+His Royal Highness the Prince Regent in Council,
+WHEREAS by an Act made and passed in the Forty-sixth Year of His Majesty’s Reign, intitled, “An Act for authorizing His Majesty in Council to allow during “the present War, and for six Months after the ratification of a definitive Treaty of “Peace, the importation and exportation of certain goods and commodities in Neutral “Ships, into and from His Majesty’s Territories in the West Indies and Continent of “South America,” It was enacted, that from and after the passing of the said Act, it should and might be lawful for His Majesty, his Heirs and Successors, by and with the advice of his and their Privy Council, to permit or to authorize the Governors of the said Islands and Territories, in such manner and under such restrictions, ad to His Majesty, by and with the advice of his Privy Council should seem fit, to permit, when the necessity of the case should appear to His Majesty, with the advice of His Privy Council to require it, from time to time during the present War, and for six months after the ratification of a definitive Treaty of peace, the importation into, and the exportation from, any Island in the West Indies( in which description the Bahama Islands and the Bermuda or Somer Islands are included) or any Lands or Territories on the Continent of South America, to His Majesty belonging, of any such articles, foods and commodities, as should be mentioned in such orders of His Majesty in Council__ Council in ____ ____ _____ ______ ____ the Subjects of any State in amity with His Majesty, in such manner as His Majesty, his Heirs and Successors, by and with the advice aforesaid should direct, provided such Ships or Vessels should duly enter into, report, and deliver their respective cargoes, and reload at ____ Ports only where regular Custom-houses should have been established. And, whereas it appears at present, to be necessary to permit for a limited time subject to be sooner terminated, varied, or altered as herein after provided, the importation into, and exportation from, the Islands and Territories of His Majesty in the West Indies (including the Bahama Islands and the Bermuda or Somer Islands) and the Lands and Territories on the Continent of South America, to His Majesty belonging, of certain articles, goods, and commodities herein after mentioned, in any Ships or Vessels belonging to the subjects of any State in amity with His Majesty; His Royal Highness the Prince Regent is thereupon pleased, in the name and on the behalf His Majesty, and by and with the advice of His Majesty’s Privy Council, to order, and doth hereby order, that the Governors and Lieutenant-Governors of His Majesty’s Islands and Colonies in the West Indies, (in which description the Bahama Islands and the Bermuda, or Somer Islands are included) and of any Lands or Territories on the Continent of ASouth America, to His Majesty belonging, and each and every such Governors and Lieutenant-Governors shall be authorized, and they and each and every one of them, are hereby authorized to permit for Twelve Months from the date hereof, subject to be sooner terminated, varied and altered, as in herein after provided in any Ships or Vessels belonging to the Subjects of any State in amity with His Majesty, the importation into the said Islands, Colonies, Lands and Territories respectively, of Corn, Grain, Meal, Flour, Bran, Biscuit, Pulse, Rice, Horses, Mules, neat Cattle, Sheep, Hogs and every other species of live stock and live provisions; and also the exportation from the said Islands.
+
+
+
+
+
+
+
+
+
+COUNCIL-OFFICE, WHITEHALL
+6th December, 1813
+
+S: R,
+
+I herewith transmit to you an Order of His Royal Highness the Prince Regent is Council, permitting the Importation and Exportation of Grain, and certain other articles of provision, &c, into and from His Majesty’s Islands in the West Indies and the Territories on the Continent of South America, in Vessels belonging to States in amity with His Majesty, to be in force during Twelve Months, subject to be sooner terminated, varied or altered; and I am to desire that you will lay the said Order before Earl Bathurst, that his Lordship may cause the same to be transmitted to the Governors of His Majesty’s said Islands and Territories accordingly.
+
+
+I am,
+
+&c, &c, &c
+(Signed) CHETWYND"
+1221,December 21 1813,December 21,Dominica National Archives,18,dispatches1813_item,dispatches1813,"","","","Dowery Street
+21st December 1813
+
+Sir
+I transmit to you herewith two orders by His Royal Highness The France regent in council bearing date the 13th instant declaring that all hostilities against such Ports or Places of the United Provinces of The Netherlands as shall not be in the profession or under the ""...""of the ""..."" shall immediately cease, and the discontinuous Of the Blockade of ""...""; and I am to desire you will take care that the said orders be duly carried into execution as far as the same may apply to the colony under your government.
+
+I have the honor to be
+Sir,
+Your most obedient
+Humble servant
+""...""
+
+Governor Ainsley
+
+Circular
+Ddowning Street
+21st December 1813
+
+Sir,
+I transmit you here with two orders issued by His Royal Highness the prince regent? In council bearing date the 13th instant declaring that the hostilities against such ports and places of the United Provinces of the Netherlands as shall not be under the possession or under
+the control of the enemy shall immediately cease and the
+discontinuance of the blockade of ""...""; and I am to desire you will take care that the said orders be duly carried into execution as far as the same may apply to the colony under your government.
+
+I have the honor to be
+Sir,
+Your most obedient
+Humble Servant.
+""...""
+
+Governor Ainslie"

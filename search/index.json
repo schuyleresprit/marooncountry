@@ -4,6 +4,7 @@ layout: none
 [
   {
     "pid": "0111",
+    "_date": "January 11 1813",
     "collection": "dispatches1813",
     "thumbnail": "/img/derivatives/iiif/images/0111_0111a/full/250,/0/default.jpg",
     "permalink": "/dispatches1813/0111",
@@ -11,6 +12,7 @@ layout: none
   },
   {
     "pid": "0208",
+    "_date": "February 8 1813",
     "collection": "dispatches1813",
     "thumbnail": "/img/derivatives/iiif/images/0208_0208a/full/250,/0/default.jpg",
     "permalink": "/dispatches1813/0208",
@@ -18,13 +20,14 @@ layout: none
   },
   {
     "pid": "0326",
+    "_date": "March 26 1813",
     "collection": "dispatches1813",
-    "thumbnail": "/img/derivatives/iiif/images/0326/full/250,/0/default.jpg",
     "permalink": "/dispatches1813/0326",
     "lunr_id": 2
   },
   {
     "pid": "0404",
+    "_date": "April 4 1813",
     "collection": "dispatches1813",
     "thumbnail": "/img/derivatives/iiif/images/0404/full/250,/0/default.jpg",
     "permalink": "/dispatches1813/0404",
@@ -32,6 +35,7 @@ layout: none
   },
   {
     "pid": "0410",
+    "_date": "April 10 1813",
     "collection": "dispatches1813",
     "thumbnail": "/img/derivatives/iiif/images/0410/full/250,/0/default.jpg",
     "permalink": "/dispatches1813/0410",
@@ -39,20 +43,22 @@ layout: none
   },
   {
     "pid": "0430",
+    "_date": "April 30",
     "collection": "dispatches1813",
     "thumbnail": "/img/derivatives/iiif/images/0430_0430a/full/250,/0/default.jpg",
     "permalink": "/dispatches1813/0430",
     "lunr_id": 5
   },
   {
-    "pid": "0621",
+    "pid": "0601",
+    "_date": "June 1 1813",
     "collection": "dispatches1813",
-    "thumbnail": "/img/derivatives/iiif/images/0621_0621a/full/250,/0/default.jpg",
-    "permalink": "/dispatches1813/0621",
+    "permalink": "/dispatches1813/0601",
     "lunr_id": 6
   },
   {
     "pid": "0623",
+    "_date": "June 23 1813",
     "collection": "dispatches1813",
     "thumbnail": "/img/derivatives/iiif/images/0623_0623a/full/250,/0/default.jpg",
     "permalink": "/dispatches1813/0623",
@@ -60,6 +66,7 @@ layout: none
   },
   {
     "pid": "0703",
+    "_date": "July 3 1813",
     "collection": "dispatches1813",
     "thumbnail": "/img/derivatives/iiif/images/0703_0703a/full/250,/0/default.jpg",
     "permalink": "/dispatches1813/0703",
@@ -67,13 +74,14 @@ layout: none
   },
   {
     "pid": "0715",
+    "_date": "July 15 1813",
     "collection": "dispatches1813",
-    "thumbnail": "/img/derivatives/iiif/images/0715_0715a/full/250,/0/default.jpg",
     "permalink": "/dispatches1813/0715",
     "lunr_id": 9
   },
   {
     "pid": "0716",
+    "_date": "July 16 1813",
     "collection": "dispatches1813",
     "thumbnail": "/img/derivatives/iiif/images/0716_0716a/full/250,/0/default.jpg",
     "permalink": "/dispatches1813/0716",
@@ -81,13 +89,14 @@ layout: none
   },
   {
     "pid": "0728",
+    "_date": "July 28 1813",
     "collection": "dispatches1813",
-    "thumbnail": "/img/derivatives/iiif/images/0728_0728a/full/250,/0/default.jpg",
     "permalink": "/dispatches1813/0728",
     "lunr_id": 11
   },
   {
     "pid": "0814",
+    "_date": "August 14 1813",
     "collection": "dispatches1813",
     "thumbnail": "/img/derivatives/iiif/images/0814_0814a/full/250,/0/default.jpg",
     "permalink": "/dispatches1813/0814",
@@ -95,6 +104,7 @@ layout: none
   },
   {
     "pid": "0904",
+    "_date": "September 4 1813",
     "collection": "dispatches1813",
     "thumbnail": "/img/derivatives/iiif/images/0904_0904a/full/250,/0/default.jpg",
     "permalink": "/dispatches1813/0904",
@@ -102,6 +112,7 @@ layout: none
   },
   {
     "pid": "0918",
+    "_date": "September 18 1813",
     "collection": "dispatches1813",
     "thumbnail": "/img/derivatives/iiif/images/0918_0918a/full/250,/0/default.jpg",
     "permalink": "/dispatches1813/0918",
@@ -109,6 +120,7 @@ layout: none
   },
   {
     "pid": "0919",
+    "_date": "September 19 1813",
     "collection": "dispatches1813",
     "thumbnail": "/img/derivatives/iiif/images/0919/full/250,/0/default.jpg",
     "permalink": "/dispatches1813/0919",
@@ -116,6 +128,7 @@ layout: none
   },
   {
     "pid": "1018",
+    "_date": "October 18 1813",
     "collection": "dispatches1813",
     "thumbnail": "/img/derivatives/iiif/images/1018_1018a/full/250,/0/default.jpg",
     "permalink": "/dispatches1813/1018",
@@ -123,6 +136,7 @@ layout: none
   },
   {
     "pid": "1217",
+    "_date": "December 17 1813",
     "collection": "dispatches1813",
     "thumbnail": "/img/derivatives/iiif/images/1217_1217a/full/250,/0/default.jpg",
     "permalink": "/dispatches1813/1217",
@@ -130,8 +144,8 @@ layout: none
   },
   {
     "pid": "1221",
+    "_date": "December 21 1813",
     "collection": "dispatches1813",
-    "thumbnail": "/img/derivatives/iiif/images/1221/full/250,/0/default.jpg",
     "permalink": "/dispatches1813/1221",
     "lunr_id": 18
   }
