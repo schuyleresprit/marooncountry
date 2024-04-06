@@ -3,136 +3,136 @@ layout: none
 ---
 [
   {
-    "pid": "1217",
+    "pid": "0111",
     "collection": "dispatches1813",
-    "thumbnail": "/img/derivatives/iiif/images/1217/full/250,/0/default.jpg",
-    "permalink": "/dispatches1813/1217",
+    "thumbnail": "/img/derivatives/iiif/images/0111_0111a/full/250,/0/default.jpg",
+    "permalink": "/dispatches1813/0111",
     "lunr_id": 0
-  },
-  {
-    "pid": "0621",
-    "collection": "dispatches1813",
-    "thumbnail": "/img/derivatives/iiif/images/0621_0621a/full/250,/0/default.jpg",
-    "permalink": "/dispatches1813/0621",
-    "lunr_id": 1
-  },
-  {
-    "pid": "0715",
-    "collection": "dispatches1813",
-    "thumbnail": "/img/derivatives/iiif/images/0715_0715a/full/250,/0/default.jpg",
-    "permalink": "/dispatches1813/0715",
-    "lunr_id": 2
   },
   {
     "pid": "0208",
     "collection": "dispatches1813",
     "thumbnail": "/img/derivatives/iiif/images/0208_0208a/full/250,/0/default.jpg",
     "permalink": "/dispatches1813/0208",
-    "lunr_id": 3
+    "lunr_id": 1
   },
   {
     "pid": "0326",
     "collection": "dispatches1813",
     "thumbnail": "/img/derivatives/iiif/images/0326/full/250,/0/default.jpg",
     "permalink": "/dispatches1813/0326",
-    "lunr_id": 4
-  },
-  {
-    "pid": "0918",
-    "collection": "dispatches1813",
-    "thumbnail": "/img/derivatives/iiif/images/0918/full/250,/0/default.jpg",
-    "permalink": "/dispatches1813/0918",
-    "lunr_id": 5
-  },
-  {
-    "pid": "0111",
-    "collection": "dispatches1813",
-    "thumbnail": "/img/derivatives/iiif/images/0111/full/250,/0/default.jpg",
-    "permalink": "/dispatches1813/0111",
-    "lunr_id": 6
-  },
-  {
-    "pid": "0919",
-    "collection": "dispatches1813",
-    "thumbnail": "/img/derivatives/iiif/images/0919/full/250,/0/default.jpg",
-    "permalink": "/dispatches1813/0919",
-    "lunr_id": 7
-  },
-  {
-    "pid": "0728",
-    "collection": "dispatches1813",
-    "thumbnail": "/img/derivatives/iiif/images/0728_0728a/full/250,/0/default.jpg",
-    "permalink": "/dispatches1813/0728",
-    "lunr_id": 8
-  },
-  {
-    "pid": "1018",
-    "collection": "dispatches1813",
-    "thumbnail": "",
-    "permalink": "/dispatches1813/1018",
-    "lunr_id": 9
-  },
-  {
-    "pid": "0623",
-    "collection": "dispatches1813",
-    "thumbnail": "/img/derivatives/iiif/images/0623/full/250,/0/default.jpg",
-    "permalink": "/dispatches1813/0623",
-    "lunr_id": 10
-  },
-  {
-    "pid": "0904",
-    "collection": "dispatches1813",
-    "thumbnail": "/img/derivatives/iiif/images/0904_0904a/full/250,/0/default.jpg",
-    "permalink": "/dispatches1813/0904",
-    "lunr_id": 11
-  },
-  {
-    "pid": "0716",
-    "collection": "dispatches1813",
-    "thumbnail": "/img/derivatives/iiif/images/0716/full/250,/0/default.jpg",
-    "permalink": "/dispatches1813/0716",
-    "lunr_id": 12
-  },
-  {
-    "pid": "1221",
-    "collection": "dispatches1813",
-    "thumbnail": "/img/derivatives/iiif/images/1221/full/250,/0/default.jpg",
-    "permalink": "/dispatches1813/1221",
-    "lunr_id": 13
-  },
-  {
-    "pid": "0703",
-    "collection": "dispatches1813",
-    "thumbnail": "/img/derivatives/iiif/images/0703/full/250,/0/default.jpg",
-    "permalink": "/dispatches1813/0703",
-    "lunr_id": 14
-  },
-  {
-    "pid": "0430",
-    "collection": "dispatches1813",
-    "thumbnail": "/img/derivatives/iiif/images/0430/full/250,/0/default.jpg",
-    "permalink": "/dispatches1813/0430",
-    "lunr_id": 15
+    "lunr_id": 2
   },
   {
     "pid": "0404",
     "collection": "dispatches1813",
     "thumbnail": "/img/derivatives/iiif/images/0404/full/250,/0/default.jpg",
     "permalink": "/dispatches1813/0404",
-    "lunr_id": 16
-  },
-  {
-    "pid": "0814",
-    "collection": "dispatches1813",
-    "thumbnail": "/img/derivatives/iiif/images/0814/full/250,/0/default.jpg",
-    "permalink": "/dispatches1813/0814",
-    "lunr_id": 17
+    "lunr_id": 3
   },
   {
     "pid": "0410",
     "collection": "dispatches1813",
     "thumbnail": "/img/derivatives/iiif/images/0410/full/250,/0/default.jpg",
     "permalink": "/dispatches1813/0410",
+    "lunr_id": 4
+  },
+  {
+    "pid": "0430",
+    "collection": "dispatches1813",
+    "thumbnail": "/img/derivatives/iiif/images/0430_0430a/full/250,/0/default.jpg",
+    "permalink": "/dispatches1813/0430",
+    "lunr_id": 5
+  },
+  {
+    "pid": "0621",
+    "collection": "dispatches1813",
+    "thumbnail": "/img/derivatives/iiif/images/0621_0621a/full/250,/0/default.jpg",
+    "permalink": "/dispatches1813/0621",
+    "lunr_id": 6
+  },
+  {
+    "pid": "0623",
+    "collection": "dispatches1813",
+    "thumbnail": "/img/derivatives/iiif/images/0623_0623a/full/250,/0/default.jpg",
+    "permalink": "/dispatches1813/0623",
+    "lunr_id": 7
+  },
+  {
+    "pid": "0703",
+    "collection": "dispatches1813",
+    "thumbnail": "/img/derivatives/iiif/images/0703_0703a/full/250,/0/default.jpg",
+    "permalink": "/dispatches1813/0703",
+    "lunr_id": 8
+  },
+  {
+    "pid": "0715",
+    "collection": "dispatches1813",
+    "thumbnail": "/img/derivatives/iiif/images/0715_0715a/full/250,/0/default.jpg",
+    "permalink": "/dispatches1813/0715",
+    "lunr_id": 9
+  },
+  {
+    "pid": "0716",
+    "collection": "dispatches1813",
+    "thumbnail": "/img/derivatives/iiif/images/0716_0716a/full/250,/0/default.jpg",
+    "permalink": "/dispatches1813/0716",
+    "lunr_id": 10
+  },
+  {
+    "pid": "0728",
+    "collection": "dispatches1813",
+    "thumbnail": "/img/derivatives/iiif/images/0728_0728a/full/250,/0/default.jpg",
+    "permalink": "/dispatches1813/0728",
+    "lunr_id": 11
+  },
+  {
+    "pid": "0814",
+    "collection": "dispatches1813",
+    "thumbnail": "/img/derivatives/iiif/images/0814_0814a/full/250,/0/default.jpg",
+    "permalink": "/dispatches1813/0814",
+    "lunr_id": 12
+  },
+  {
+    "pid": "0904",
+    "collection": "dispatches1813",
+    "thumbnail": "/img/derivatives/iiif/images/0904_0904a/full/250,/0/default.jpg",
+    "permalink": "/dispatches1813/0904",
+    "lunr_id": 13
+  },
+  {
+    "pid": "0918",
+    "collection": "dispatches1813",
+    "thumbnail": "/img/derivatives/iiif/images/0918_0918a/full/250,/0/default.jpg",
+    "permalink": "/dispatches1813/0918",
+    "lunr_id": 14
+  },
+  {
+    "pid": "0919",
+    "collection": "dispatches1813",
+    "thumbnail": "/img/derivatives/iiif/images/0919/full/250,/0/default.jpg",
+    "permalink": "/dispatches1813/0919",
+    "lunr_id": 15
+  },
+  {
+    "pid": "1018",
+    "collection": "dispatches1813",
+    "thumbnail": "/img/derivatives/iiif/images/1018_1018a/full/250,/0/default.jpg",
+    "permalink": "/dispatches1813/1018",
+    "lunr_id": 16
+  },
+  {
+    "pid": "1217",
+    "collection": "dispatches1813",
+    "thumbnail": "/img/derivatives/iiif/images/1217_1217a/full/250,/0/default.jpg",
+    "permalink": "/dispatches1813/1217",
+    "lunr_id": 17
+  },
+  {
+    "pid": "1221",
+    "collection": "dispatches1813",
+    "thumbnail": "/img/derivatives/iiif/images/1221/full/250,/0/default.jpg",
+    "permalink": "/dispatches1813/1221",
     "lunr_id": 18
   }
 ]
